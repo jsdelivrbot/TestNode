@@ -1,0 +1,7 @@
+organization=cumen-github
+projectKey=cumenKeyTwo
+serverUrl=https://sonarcloud.io
+serverVersion=7.3.0.14089
+dashboardUrl=https://sonarcloud.io/dashboard?id=cumenKeyTwo
+ceTaskId=AWRlw2fkSVw5l4-qjDSF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWRlw2fkSVw5l4-qjDSF
