@@ -15,7 +15,7 @@ app.post('/topla', function(req,res){
        bodySend = {
         "status": 200,
         "data": {
-          "işlem" : "Toplama",
+          "işlem"  "Toplama",
           "Değer 1": parseInt(req.query.value1),
           "Değer 2": parseInt(req.query.value2),
           "sonuc": value
