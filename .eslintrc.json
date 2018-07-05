@@ -1,0 +1,7 @@
+{
+    "extends": "airbnb",
+    "rules" : {
+        "radix" : 0,
+        "no-console" : 0
+    }
+}

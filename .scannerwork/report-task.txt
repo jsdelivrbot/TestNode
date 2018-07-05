@@ -3,5 +3,5 @@ projectKey=cumenkey3
 serverUrl=https://sonarcloud.io
 serverVersion=7.3.0.14089
 dashboardUrl=https://sonarcloud.io/dashboard?id=cumenkey3
-ceTaskId=AWRpVnYUSVw5l4-qjEFr
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWRpVnYUSVw5l4-qjEFr
+ceTaskId=AWRpWIVJXvYvXQrbHNO8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWRpWIVJXvYvXQrbHNO8
